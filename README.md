@@ -18,12 +18,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ---
 
-## 🎥 Demo Video 
-
-[Watch Demo on YouTube](https://your-demo-link.com)
-
----
-
 ## ✨ Features
 
 - **Basic Operations**: Perform addition, subtraction, multiplication, and division.
